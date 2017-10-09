@@ -21,6 +21,7 @@ KPCJumpBarControl
 ![License](https://img.shields.io/cocoapods/l/KPCJumpBarControl.svg?style=flat)
 ![Platform](https://img.shields.io/cocoapods/p/KPCJumpBarControl.svg?style=flat)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fonekiloparsec%2FKPCJumpBarControl.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fonekiloparsec%2FKPCJumpBarControl?ref=badge_shield)
 
 
 A jump bar similar to Xcode's allowing to easily display and navigate across a tree of objects.
@@ -73,3 +74,7 @@ LICENSE & NOTES
 
 KPCJumpBarControl is licensed under the MIT license and hosted on GitHub at https://github.com/onekiloparsec/KPCJumpBarControl/
 Fork the project and feel free to send pull requests with your changes!
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fonekiloparsec%2FKPCJumpBarControl.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fonekiloparsec%2FKPCJumpBarControl?ref=badge_large)
